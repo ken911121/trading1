@@ -4,7 +4,7 @@
 #include <chrono>  
 #include <iomanip>
 #pragma warning(disable : 4996)
-
+//yhntyh
 extern std::vector<min_data> rb01;
 extern std::vector<min_data> rb11;
 extern std::vector<min_data> io01;
